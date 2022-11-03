@@ -1,11 +1,9 @@
 ### 👋 Hi
 I’m **Rio Bintang Adi Putra**
 
-I'm undergraduate informatics student, currently on 5th semester.
-
-I’m interested in Web Development, Machine Learning, and Internet of Things
-
-I’m currently learning Back End Developer with Express
+I'm undergraduate informatics student, currently on 5th semester. \
+I’m interested in Web Development, Machine Learning, and Internet of Things. \
+I’m currently learning Back End Developer with Express. \
 
 
 <!---
