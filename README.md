@@ -1,4 +1,4 @@
-### 👋 Hi
+### Hi👋
 I’m **Rio Bintang Adi Putra**
 
 I'm undergraduate informatics student, currently on 5th semester. \
