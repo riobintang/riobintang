@@ -1,7 +1,7 @@
 ### Hi👋
 I’m **Rio Bintang Adi Putra**
 
-I'm undergraduate informatics student, currently on 7th semester. \
+I'm graduate informatics student. \
 I’m interested in Back End Development, Machine Learning, and Internet of Things. \
 I’m currently learning Back End Developer with Express.
 
