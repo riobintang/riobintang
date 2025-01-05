@@ -1,13 +1,15 @@
-### Hi👋
-I’m **Rio Bintang Adi Putra**
+# Hi👋
 
-I'm graduate informatics student. \
-I’m interested in Back End Development, Machine Learning, and Internet of Things. \
-I’m currently learning Back End Developer with Express.
+**Rio Bintang Adi Putra | 📍Yogyakarta, Indonesia**
+
+Hello, I'm Rio Bintang Adi Putra. 
+- Graduate informatics UPN "Veteran" Yogyakarta.
+- Interested in Back End Development, Machine Learning, and Internet of Things.
+- Currently learning Back End Developer with Express.
 
 
 
-
+## My Stats
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riobintang&theme=dark&compact=true&layout=compact&exclude_repo=github-readme-stats,riobintang.github.io)](https://github.com/riobintang/github-readme-stats) 
 
 ![riobintang's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riobintang&show_icons=true&theme=dark)
