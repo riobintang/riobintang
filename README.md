@@ -4,8 +4,8 @@
 
 Hello, I'm Rio Bintang Adi Putra. 
 - Graduate informatics UPN "Veteran" Yogyakarta.
-- Interested in Back End Development, Machine Learning, and Internet of Things.
-- Currently learning Back End Developer with Express.
+- Interested in Back End Development, Cloud Engineer, and Network Engineer.
+- Currently learning Back End Developer with TypeScript.
 
 
 
